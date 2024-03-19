@@ -9,7 +9,7 @@ function App() {
         src={Img}
         alt="img"
       />
-      <div className="h-full md:bg-white p-10 w-96 max-md:absolute max-md:mb-60 max-xs:mb-32 px-10">
+      <div className="h-full md:bg-white p-10 w-96 max-md:absolute px-10 max-sm:mb-52 max-xs:mb-20">
         <p className="text-xs text-midnight font-roboto font-normal">
           Welcome back
         </p>
