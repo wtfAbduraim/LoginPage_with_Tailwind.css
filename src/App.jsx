@@ -24,7 +24,7 @@ function App() {
           <input
             type="email"
             name="email"
-            class="font-roboto ss:w-80 w-64 mt-1 px-3 py-1 bg-white border border-slate-200 placeholder-slate-900 focus:outline-none focus:border-sky-100 focus:ring-sky-800 block rounded-md sm:text-sm focus:ring-1 bg-transparent"
+            class="font-roboto ss:w-80 w-64 mt-1 px-3 py-1 sm:bg-white border border-slate-200 placeholder-slate-900 focus:outline-none focus:border-sky-100 focus:ring-sky-800 block rounded-md sm:text-sm focus:ring-1 bg-transparent"
             placeholder="John.snow@gmail.com"
           />
         </label>
@@ -36,7 +36,7 @@ function App() {
           <input
             type="password"
             name="email"
-            class="font-roboto ss:w-80 w-64 mt-2 px-3 py-1 bg-white border border-slate-200 placeholder-slate-900 focus:outline-none focus:border-sky-100 focus:ring-sky-800 block rounded-md sm:text-sm focus:ring-1 max-md:bg-transparent"
+            class="font-roboto ss:w-80 w-64 mt-2 px-3 py-1 sm:bg-white border border-slate-200 placeholder-slate-900 focus:outline-none focus:border-sky-100 focus:ring-sky-800 block rounded-md sm:text-sm focus:ring-1 bg-transparent"
             placeholder="********"
           />
         </label>
